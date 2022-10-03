@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duy Vo
 ==============================================================================================================================
 
-An energetic and passionate college student working toward a Bachelor of Science in Computer Science at Wentworth Institute Of Technology Aim to use knowledge of computer and technology, software development, analysis, mathematics, and project management seeking internships/Coop to further my knowledge and skills in Computer Science Skilled in problem-solving, attention to detail, critical thinking, creativity, self-learner, resilience, teamwork, time management, organization, and communication
+An energetic and passionate college student working toward a Bachelor of Science in Computer Science at Wentworth Institute Of Technology 
+
+Aim to use knowledge of computer and technology, software development, analysis, mathematics, and project management seeking internships/Coop to further my knowledge and skills in Computer Science 
+
+Skilled in problem-solving, attention to detail, critical thinking, creativity, self-learner, resilience, teamwork, time management, organization, and communication
 
 * 🌍  I'm based in Boston, Massachusetts United States
 * 🖥️  See my portfolio at [My Porfolio](http://www.duyvotech.com/)
