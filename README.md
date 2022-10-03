@@ -1,11 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duy Vo
 ==============================================================================================================================
 
-An energetic and passionate college student working toward a Bachelor of Science in Computer Science at Wentworth Institute Of Technology 
-
-Aim to use knowledge of computer and technology, software development, analysis, mathematics, and project management seeking internships/Coop to further my knowledge and skills in Computer Science 
-
-Skilled in problem-solving, attention to detail, critical thinking, creativity, self-learner, resilience, teamwork, time management, organization, and communication
+An energetic and passionate college student working toward a Bachelor of Science in Computer Science at Wentworth Institute Of Technology Aim to use knowledge of computer and technology, software development, analysis, mathematics, and project management seeking internships/Coop to further my knowledge and skills in Computer Science Skilled in problem-solving, attention to detail, critical thinking, creativity, self-learner, resilience, teamwork, time management, organization, and communication
 
 * 🌍  I'm based in Boston, Massachusetts United States
 * 🖥️  See my portfolio at [My Porfolio](http://www.duyvotech.com/)
@@ -42,8 +38,8 @@ Skilled in problem-solving, attention to detail, critical thinking, creativity, 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vod6atwit"><img src="https://github-readme-stats.vercel.app/api?username=vod6atwit&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="vod6atwit's GitHub stats" /></a>
+<a href="http://www.github.com/vod6atwit"><img src="https://github-readme-stats.vercel.app/api?username=vod6atwit&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="vod6atwit's GitHub stats" /></a>
 
-<a href="http://www.github.com/vod6atwit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vod6atwit&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vod6atwit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vod6atwit&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/vod6atwit"><img src="https://activity-graph.herokuapp.com/graph?username=vod6atwit&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/vod6atwit"><img src="https://activity-graph.herokuapp.com/graph?username=vod6atwit&bg_color=ffffff&color=0f172a&line=3382ed&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
