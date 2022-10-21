@@ -7,7 +7,7 @@ Aim to use knowledge of computer and technology, software development, analysis,
 
 Skilled in problem-solving, attention to detail, critical thinking, creativity, self-learner, resilience, teamwork, time management, organization, and communication
 
-* 🌍  I'm based in Boston, Massachusetts United States
+* 🌍  I'm based in Quincy, Massachusetts United States
 * 🖥️  See my portfolio at [My Porfolio](http://www.duyvotech.com/)
 * ✉️  You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
 * 🧠  I'm learning AWS
