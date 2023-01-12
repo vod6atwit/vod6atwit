@@ -10,7 +10,7 @@ Skilled in problem-solving, attention to detail, critical thinking, creativity, 
 * 🌍  I'm based in Quincy, Massachusetts United States
 * 🖥️  See my portfolio at [My Porfolio](http://www.duyvotech.com/)
 * ✉️  You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
-* 🧠  I'm learning AWS, Python (numpy, pandas, scikit-learn, tensorflow), ReactJs 
+* 🧠  I'm learning ReactJs, AWS Amplify, NextJs, NestJs, Angular 
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
