@@ -31,16 +31,16 @@ Skilled in problem-solving, attention to detail, critical thinking, creativity, 
 
 
 <h3 align="left">My GitHub Stats</h3>
-<a href="http://www.github.com/vod6atwit"><img src="https://github-readme-stats.vercel.app/api?username=vod6atwit&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="vod6atwit's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/vod6atwit"><img src="https://github-readme-stats.vercel.app/api?username=vod6atwit&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="vod6atwit's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/vod6atwit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vod6atwit&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/vod6atwit"><img src="https://activity-graph.herokuapp.com/graph?username=vod6atwit&bg_color=ffffff&color=0f172a&line=3382ed&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/vod6atwit"><img src="https://activity-graph.herokuapp.com/graph?username=vod6atwit&bg_color=ffffff&color=0f172a&line=3382ed&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vod6atwit&show_icons=true&locale=en&layout=compact" alt="vod6atwit" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vod6atwit&show_icons=true&locale=en&layout=compact" alt="vod6atwit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vod6atwit&show_icons=true&locale=en" alt="vod6atwit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vod6atwit&" alt="vod6atwit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vod6atwit&" alt="vod6atwit" /></p> -->
