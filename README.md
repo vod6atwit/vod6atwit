@@ -9,11 +9,9 @@ Skilled in problem-solving, attention to detail, critical thinking, creativity, 
 
 * 🌍  I'm based in Quincy, Massachusetts United States
 * 🖥️  See my portfolio at [My Porfolio](http://www.duyvotech.com/)
-* ✉️  You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
-* 🧠  I'm learning ReactJs, AWS Amplify, NextJs, NestJs, Angular 
-* 🤝  I'm open to collaborating on Projects
+* ✉️   You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
+* 🧠  I'm learning ReactJs, NextJs, Serverless funciton, Angular  
 * 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/196CMdCoPScJ9GKUon1AsKVT-V4nxGmHy/view)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
