@@ -9,9 +9,9 @@ I possess a diverse set of skills that enable me to excel in various aspects of 
 
 By actively seeking internships/Co-op experiences, I aim to further develop and refine these skills while gaining practical, hands-on experience in the field. I am enthusiastic about taking on new challenges and continually learning and adapting to emerging technologies and industry trends.
 
-* 🌍  I'm based in Quincy, Massachusetts United States
-* 🖥️  See my portfolio at [My Porfolio](http://www.duyvotech.com/)
-* ✉️   You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
+* 🌍 I'm based in Quincy, Massachusetts United States
+* 🖥️ See my portfolio at [My Porfolio](http://www.duyvotech.com/)
+* ✉️ You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
 * 🧠  I'm learning NextJs, TypeScript
 * 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/196CMdCoPScJ9GKUon1AsKVT-V4nxGmHy/view)
 
@@ -24,8 +24,8 @@ By actively seeking internships/Co-op experiences, I aim to further develop and 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vod6atwit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vod6atwit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/duyvo1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="duyvo1117" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/duyvo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duyvo123" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/duyvo1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="duyvo1117" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/duyvo1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duyvo123" height="30" width="40" /></a>
 </p>
 
 
