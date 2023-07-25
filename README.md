@@ -12,7 +12,7 @@ By actively seeking internships/Co-op experiences, I aim to further develop and 
 * 🌍 I'm based in Quincy, Massachusetts United States
 * 🖥️ See my portfolio at [My Porfolio](http://www.duyvotech.com/)
 * ✉️ You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
-* 🧠  I'm learning NextJs, TypeScript
+* 🧠  I'm learning F#, Prolog, TypeScript
 * 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/196CMdCoPScJ9GKUon1AsKVT-V4nxGmHy/view)
 
 
