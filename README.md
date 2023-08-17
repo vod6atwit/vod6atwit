@@ -3,16 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 An ambitious and dedicated college student pursuing a Bachelor of Science in Computer Science at Wentworth Institute Of Technology.
 
-My primary objective is to leverage my comprehensive understanding of computer technology, software development, analysis, mathematics, and project management to secure internships/Co-op opportunities that will enhance my expertise in the field of Computer Science.
+My primary objective is to leverage my comprehensive understanding of computer technology, software development, analysis, mathematics, and project management to secure internships/Co-op or job opportunities that will enhance my expertise in Computer Science.
 
-I possess a diverse set of skills that enable me to excel in various aspects of my work. These skills include exceptional problem-solving abilities, meticulous attention to detail, critical thinking prowess, creative thinking, self-motivation, resilience, effective teamwork, efficient time management, strong organizational skills, and excellent communication capabilities.
+I possess diverse skills that enable me to excel in various aspects of my work. These skills include exceptional problem-solving abilities,  attention to detail, critical thinking, creativity, self-motivation, resilience, effective teamwork, time management, strong organizational skills, and excellent communication capabilities.
 
-By actively seeking internships/Co-op experiences, I aim to further develop and refine these skills while gaining practical, hands-on experience in the field. I am enthusiastic about taking on new challenges and continually learning and adapting to emerging technologies and industry trends.
+By actively seeking internship and job experiences, I aim to develop further and refine these skills while gaining practical, hands-on experience in the field. I am enthusiastic about taking on new challenges and continually learning and adapting to emerging technologies and industry trends.
 
 * 🌍 I'm based in Quincy, Massachusetts United States
 * 🖥️ See my portfolio at [My Porfolio](http://www.duyvotech.com/)
 * ✉️ You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
-* 🧠  I'm learning F#, Prolog, TypeScript
 * 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/196CMdCoPScJ9GKUon1AsKVT-V4nxGmHy/view)
 
 
