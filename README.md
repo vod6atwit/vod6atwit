@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duy (Timber)
 ==============================================================================================================================
 
-An ambitious and dedicated college student pursuing a Bachelor of Science in Computer Science at Wentworth Institute Of Technology.
+A recent graduate with a Bachelor of Science in Computer Science from Wentworth Institute Of Technology, actively seeking job opportunities.
 
-My primary objective is to leverage my comprehensive understanding of computer technology, software development, analysis, mathematics, and project management to secure internships/Co-op or job opportunities that will enhance my expertise in Computer Science.
+Having successfully completed my degree, I am now eager to apply my comprehensive understanding of computer technology, software development, analysis, mathematics, and project management in a professional setting. I am actively searching for positions that allow me to leverage and expand upon my skills through practical experience.
 
-I possess diverse skills that enable me to excel in various aspects of my work. These skills include exceptional problem-solving abilities,  attention to detail, critical thinking, creativity, self-motivation, resilience, effective teamwork, time management, strong organizational skills, and excellent communication capabilities.
+My skill set encompasses exceptional problem-solving abilities, attention to detail, critical thinking, creativity, self-motivation, resilience, effective teamwork, time management, strong organizational skills, and excellent communication capabilities. I am confident that these attributes make me well-equipped to excel in various aspects of the technology and computer science field.
 
-By actively seeking internship and job experiences, I aim to develop further and refine these skills while gaining practical, hands-on experience in the field. I am enthusiastic about taking on new challenges and continually learning and adapting to emerging technologies and industry trends.
+I am enthusiastic about embracing new challenges, continually learning, and adapting to emerging technologies and industry trends. I am ready to contribute my skills and knowledge to a dynamic work environment and am eager to embark on a rewarding career in Computer Science.
 
 * 🌍 I'm based in Quincy, Massachusetts United States
 * 🖥️ See my portfolio at [My Porfolio](http://www.duyvotech.com/)
