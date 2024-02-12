@@ -11,7 +11,7 @@ I am enthusiastic about embracing new challenges, continually learning, and adap
 
 * 🌍 I'm based in Quincy, Massachusetts United States
 * 🖥️ See my portfolio at [My Porfolio](http://www.duyvotech.com/)
-* ✉️ You can contact me at [vod6@wit.edu](mailto:vod6@wit.edu)
+* ✉️ You can contact me at [duyvo1117@gmail.com](mailto:duyvo1117@gmail.com)
 * 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/196CMdCoPScJ9GKUon1AsKVT-V4nxGmHy/view)
 
 
