@@ -24,7 +24,7 @@ I am enthusiastic about embracing new challenges, continually learning, and adap
 <p align="left">
 <a href="https://linkedin.com/in/vod6atwit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vod6atwit" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/duyvo1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="duyvo1117" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/duyvo1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duyvo123" height="30" width="40" /></a>
+<a href="https://leetcode.com/duy_vo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duyvo123" height="30" width="40" /></a>
 </p>
 
 
