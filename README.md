@@ -90,9 +90,6 @@ I am enthusiastic about embracing new challenges, continually learning, and adap
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="tailwind" width="60" height="60"/> </a> 
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vod6atwit" target="blank">
@@ -110,5 +107,3 @@ I am enthusiastic about embracing new challenges, continually learning, and adap
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vod6atwit&show_icons=true&locale=en&layout=compact&theme=dark" alt="vod6atwit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vod6atwit&show_icons=true&locale=en&theme=dark" alt="vod6atwit" /></p>
-
-
