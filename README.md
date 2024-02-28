@@ -14,7 +14,6 @@ I am enthusiastic about embracing new challenges, continually learning, and adap
 * ✉️ You can contact me at [duyvo1117@gmail.com](mailto:duyvo1117@gmail.com)
 * 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/196CMdCoPScJ9GKUon1AsKVT-V4nxGmHy/view)
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
